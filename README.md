@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @us3l3SS
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Web developmen
+- 🌱 I’m currently learning Web development
 
 <!---
 us3l3SS/us3l3SS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
